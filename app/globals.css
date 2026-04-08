@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --cal-bg:         #f5f3ef;
+  --cal-panel:      #ffffff;
+  --cal-accent:     #1a9fd4;
+  --cal-accent-2:   #e8f6fc;
+  --cal-text:       #1a1a2e;
+  --cal-text-muted: #6b7280;
+  --cal-weekend:    #dc2626;
+  --cal-range-bg:   #bce9f7;
+  --cal-start-bg:   #1a9fd4;
+  --cal-end-bg:     #0f7db0;
+  --cal-today:      #f59e0b;
+  --cal-notes-bg:   #f9f8f5;
+  --cal-wire:       #9ca3af;
+  --cal-shadow:     0 8px 40px rgba(0,0,0,0.14);
+}
+
+* { box-sizing: border-box; }
+
+/* Scrollbar styling for notes panel */
+.notes-scroll::-webkit-scrollbar { width: 4px; }
+.notes-scroll::-webkit-scrollbar-track { background: transparent; }
+.notes-scroll::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 2px; }
