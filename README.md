@@ -17,6 +17,10 @@ This project is a frontend-focused calendar UI inspired by a real hanging wall c
 
 It is designed to be **clean, visual, interactive, and Vercel-ready**.
 
+## 🔗 Live Demo
+
+👉 [wall-calender-dhruv-johri.vercel.app](https://wall-calender-dhruv-johri.vercel.app/)
+
 ## 🛠 Tech Stack
 
 | Layer | Tooling |
