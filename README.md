@@ -215,9 +215,10 @@ Run the production server locally:
 npm start
 ```
 
+
 ## 🚀 Deploying To Vercel
 
-This project is already set up for Vercel deployment.
+**Live:** [https://wall-calender-dhruv-johri.vercel.app/](https://wall-calender-dhruv-johri.vercel.app/)
 
 ### Option 1: GitHub + Vercel Dashboard
 
